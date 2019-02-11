@@ -1,5 +1,6 @@
 # devops-aula02
 
 * Marilyn Monroe
-* Audrey Hepburn
+* Grace Kelly
 * Sophia Loren
+* Charlotte Casiraghi
